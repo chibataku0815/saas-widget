@@ -1,7 +1,7 @@
-このリポジトリはプロジェクトのウィジェット機能とダッシュボードを提供するものです。以下のガイドラインに従って開発を進めてください：
+このリポジトリはプロジェクトのウィジェット機能とダッシュボードを提供するプロジェクトのウィジェット機能を提供しているリポジトリです。
+以下のガイドラインに従って開発を進めてください：
 
 1. 技術スタック：
-  - ダッシュボード：TypeScript、Next.js App Router、React、Shadcn UI、Radix UI、Tailwind CSS、Clerk、Stripe、TanStack Query、TanStack Table、Drizzle、Supabase、Storybook v8を使用します。
   - ウィジェット：TypeScript、React、Vite、Web Components, 、Shadcn UI、Radix UI、Tailwind CSS, Supabaseを使用します。
 
 2. コードスタイル：
